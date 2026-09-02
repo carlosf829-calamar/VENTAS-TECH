@@ -1,2 +1,2 @@
-# VENTAS-TECH
+# Retail Pro
 Pre entregable ventas-tech
